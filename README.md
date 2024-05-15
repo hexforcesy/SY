@@ -1,7 +1,7 @@
 <img align="center"  width="100%" src="https://pbs.twimg.com/profile_banners/1284357681415884801/1651791380/1500x500"/>
 
 
-## Founder of HEX TOYS | Experienced Infrastructure Architect 🌟
+## Founder of TesseractX | Experienced Infrastructure Architect 🌟
 
 - **13+ years** of expertise in infrastructure architecture and system engineering.
 - Skilled in **Azure, 0365, Cisco UCS,VMware vSphere, Cloud Architecture, Monitoring, and Automation**.
